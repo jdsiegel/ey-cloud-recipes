@@ -4,7 +4,8 @@
 #  }
 #end
 
-require_recipe 'varnish'
+# uncomment if you want to run varnish recipe
+#require_recipe 'varnish'
 
 # uncomment if you want to run postgres recipe
 #require_recipe 'postgres'
